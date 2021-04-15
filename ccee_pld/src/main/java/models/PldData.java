@@ -3,6 +3,7 @@ package models;
 import net.minidev.json.annotate.JsonIgnore;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 @SuppressWarnings("unused")
 public class PldData {
@@ -28,16 +29,26 @@ public class PldData {
 
     @JsonIgnore
     public PldHora minPld() {
-        return Collections.min(pldHoras, Comparator.comparing(PldHora::getConsumo));
+        return Collections.min(
+            pldHoras.stream()
+                    .sorted(Comparator.comparingInt(PldHora::getHora))
+                    .collect(Collectors.toCollection(LinkedHashSet::new)),
+            Comparator.comparing(PldHora::getConsumo)
+        );
     }
 
     @JsonIgnore
     public PldHora maxPld() {
-        return Collections.max(pldHoras, Comparator.comparing(PldHora::getConsumo));
+        return Collections.max(
+                pldHoras.stream()
+                        .sorted(Comparator.comparingInt(PldHora::getHora))
+                        .collect(Collectors.toCollection(LinkedHashSet::new)),
+                Comparator.comparing(PldHora::getConsumo)
+        );
     }
 
     @JsonIgnore
-    public Double mediaDia() {
+    public double mediaDia() {
         OptionalDouble mediaOptional = pldHoras
                 .stream()
                 .mapToDouble(PldHora::getConsumo)

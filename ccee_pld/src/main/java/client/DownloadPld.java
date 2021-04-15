@@ -11,13 +11,15 @@ import java.io.IOException;
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Date;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 public class DownloadPld {
-    public static String download(Date inicio, Date fim) throws ExecutionException, InterruptedException, IOException {
+    public static String download(LocalDateTime inicio, LocalDateTime fim) throws ExecutionException, InterruptedException, IOException {
         // download da planilha de dados da CCEE (request)
         // init cookie manager
         System.out.println("# Iniciando CCEE request: ");
@@ -40,9 +42,9 @@ public class DownloadPld {
         CompletableFuture<ResponseBody> downloadHome = oneClient.downloadHome();
         downloadHome.get();
 
-        SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy");
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         CompletableFuture<ResponseBody> downloadPld = oneClient.downloadPld(
-                String.format("%s - %s", format.format(inicio), format.format(fim))
+                String.format("%s - %s", inicio.format(formatter), fim.format(formatter))
         );
         System.out.println("-> Baixando planilha");
         ResponseBody downloadPldResponse = downloadPld.get();

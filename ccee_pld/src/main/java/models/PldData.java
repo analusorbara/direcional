@@ -33,7 +33,7 @@ public class PldData {
             pldHoras.stream()
                     .sorted(Comparator.comparingInt(PldHora::getHora))
                     .collect(Collectors.toCollection(LinkedHashSet::new)),
-            Comparator.comparing(PldHora::getConsumo)
+            Comparator.comparing(PldHora::getValor)
         );
     }
 
@@ -43,7 +43,7 @@ public class PldData {
                 pldHoras.stream()
                         .sorted(Comparator.comparingInt(PldHora::getHora))
                         .collect(Collectors.toCollection(LinkedHashSet::new)),
-                Comparator.comparing(PldHora::getConsumo)
+                Comparator.comparing(PldHora::getValor)
         );
     }
 
@@ -51,12 +51,18 @@ public class PldData {
     public double mediaDia() {
         OptionalDouble mediaOptional = pldHoras
                 .stream()
-                .mapToDouble(PldHora::getConsumo)
+                .mapToDouble(PldHora::getValor)
                 .average();
         if (mediaOptional.isPresent()) {
             return mediaOptional.getAsDouble();
         } else {
             return 0.0;
         }
+    }
+
+    @JsonIgnore
+    public PldHora procuraHora(int hora) {
+        Optional<PldHora> pldHora = pldHoras.stream().filter(item -> item.getHora() == hora).findFirst();
+        return pldHora.orElse(null);
     }
 }

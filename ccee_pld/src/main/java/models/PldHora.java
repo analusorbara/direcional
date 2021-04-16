@@ -3,7 +3,7 @@ package models;
 @SuppressWarnings("unused")
 public class PldHora {
     private Integer hora;
-    private Double consumo;
+    private Double valor;
 
     public Integer getHora() {
         return hora;
@@ -13,11 +13,11 @@ public class PldHora {
         this.hora = hora;
     }
 
-    public Double getConsumo() {
-        return consumo;
+    public Double getValor() {
+        return valor;
     }
 
-    public void setConsumo(Double consumo) {
-        this.consumo = consumo;
+    public void setValor(Double valor) {
+        this.valor = valor;
     }
 }

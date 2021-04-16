@@ -10,19 +10,17 @@ import java.io.File;
 import java.io.IOException;
 import java.net.CookieHandler;
 import java.net.CookieManager;
-import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 public class DownloadPld {
-    public static String download(LocalDateTime inicio, LocalDateTime fim) throws ExecutionException, InterruptedException, IOException {
+    public static String download(String caminhoNomeDoArquivo, LocalDateTime inicio, LocalDateTime fim) throws ExecutionException, InterruptedException, IOException {
         // download da planilha de dados da CCEE (request)
         // init cookie manager
-        System.out.println("# Iniciando CCEE request: ");
+        System.out.println("# iniciando CCEE request");
         CookieHandler cookieHandler = new CookieManager();
         OkHttpClient client = new OkHttpClient.Builder()
                 .cookieJar(new JavaNetCookieJar(cookieHandler))
@@ -38,28 +36,28 @@ public class DownloadPld {
 
         CceeClient oneClient = retrofit.create(CceeClient.class);
 
-        System.out.println("-> Obtendo cookies");
-        CompletableFuture<ResponseBody> downloadHome = oneClient.downloadHome();
+        System.out.println("-> obtendo cookies");
+        CompletableFuture<ResponseBody> downloadHome = oneClient.cookiesHome();
         downloadHome.get();
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
         CompletableFuture<ResponseBody> downloadPld = oneClient.downloadPld(
                 String.format("%s - %s", inicio.format(formatter), fim.format(formatter))
         );
-        System.out.println("-> Baixando planilha");
+        System.out.println("-> baixando planilha");
         ResponseBody downloadPldResponse = downloadPld.get();
 
-        System.out.println("-> Salvando em disco");
+        System.out.println("-> salvando em disco");
         String content = downloadPldResponse.string();
-        writeResponseBodyToDisk(content);
+        writeResponseBodyToDisk(caminhoNomeDoArquivo, content);
 
-        System.out.println("# Pronto");
+        System.out.println("# pronto");
 
         return content;
     }
 
-    private static void writeResponseBodyToDisk(String inputStream) throws IOException {
-        FileUtils.writeStringToFile(new File("./pld.xls"), inputStream, "utf-8");
-        FileUtils.writeStringToFile(new File("./pld.html"), inputStream, "utf-8");
+    private static void writeResponseBodyToDisk(String caminhoNomeDoArquivo, String inputStream) throws IOException {
+        FileUtils.writeStringToFile(new File(String.format("%s.xls", caminhoNomeDoArquivo)), inputStream, "utf-8");
+        FileUtils.writeStringToFile(new File(String.format("%s.html", caminhoNomeDoArquivo)), inputStream, "utf-8");
     }
 }

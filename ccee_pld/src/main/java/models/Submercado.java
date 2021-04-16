@@ -64,6 +64,12 @@ public class Submercado {
     }
 
     @JsonIgnore
+    public PldData procuraData(LocalDateTime dataReferencia) {
+        Optional<PldData> pldData = procuraDia(dataReferencia);
+        return pldData.orElse(null);
+    }
+
+    @JsonIgnore
     private double mediaEntreDatas(LocalDateTime inicio, LocalDateTime fim) {
         Date dateInicio = Date.from(inicio.minusDays(1).atZone(ZoneId.systemDefault()).toInstant());
         Date dateFim = Date.from(fim.plusDays(1).atZone(ZoneId.systemDefault()).toInstant());

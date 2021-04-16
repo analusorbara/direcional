@@ -12,16 +12,15 @@ import java.io.File;
 import java.io.IOException;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
-import java.time.DayOfWeek;
 import java.time.LocalDateTime;
 import java.time.format.TextStyle;
-import java.time.temporal.TemporalAdjusters;
 import java.util.Locale;
 
 public class Image {
     private static String formatDouble(double value) {
         NumberFormat df = DecimalFormat.getInstance(new Locale("pt", "BR"));
         df.setMaximumFractionDigits(2);
+        df.setMinimumFractionDigits(2);
         return df.format(value);
     }
 
@@ -53,9 +52,9 @@ public class Image {
 
         PldHora seMinObj = sudeste.minDia(diaDeReferenciaPld);
         PldHora seMaxObj = sudeste.maxDia(diaDeReferenciaPld);
-        String seMin = formatDouble(seMinObj.getConsumo());
+        String seMin = formatDouble(seMinObj.getValor());
         String seMinHora = formatHora(seMinObj.getHora());
-        String seMax = formatDouble(seMaxObj.getConsumo());
+        String seMax = formatDouble(seMaxObj.getValor());
         String seMaxHora = formatHora(seMaxObj.getHora());
         String seDia = formatDouble(sudeste.mediaDia(diaDeReferenciaPld));
         String seSemana = formatDouble(sudeste.mediaSemana(inicioSemana, diaDeReferenciaPld));
@@ -63,9 +62,9 @@ public class Image {
 
         PldHora sMinObj = sul.minDia(diaDeReferenciaPld);
         PldHora sMaxObj = sul.maxDia(diaDeReferenciaPld);
-        String sMin = formatDouble(sMinObj.getConsumo());
+        String sMin = formatDouble(sMinObj.getValor());
         String sMinHora = formatHora(sMinObj.getHora());
-        String sMax = formatDouble(sMaxObj.getConsumo());
+        String sMax = formatDouble(sMaxObj.getValor());
         String sMaxHora = formatHora(sMaxObj.getHora());
         String sDia = formatDouble(sul.mediaDia(diaDeReferenciaPld));
         String sSemana = formatDouble(sul.mediaSemana(inicioSemana, diaDeReferenciaPld));
@@ -73,9 +72,9 @@ public class Image {
 
         PldHora neMinObj = nordeste.minDia(diaDeReferenciaPld);
         PldHora neMaxObj = nordeste.maxDia(diaDeReferenciaPld);
-        String neMin = formatDouble(neMinObj.getConsumo());
+        String neMin = formatDouble(neMinObj.getValor());
         String neMinHora = formatHora(neMinObj.getHora());
-        String neMax = formatDouble(neMaxObj.getConsumo());
+        String neMax = formatDouble(neMaxObj.getValor());
         String neMaxHora = formatHora(neMaxObj.getHora());
         String neDia = formatDouble(nordeste.mediaDia(diaDeReferenciaPld));
         String neSemana = formatDouble(nordeste.mediaSemana(inicioSemana, diaDeReferenciaPld));
@@ -83,9 +82,9 @@ public class Image {
 
         PldHora nMinObj = norte.minDia(diaDeReferenciaPld);
         PldHora nMaxObj = norte.maxDia(diaDeReferenciaPld);
-        String nMin = formatDouble(nMinObj.getConsumo());
+        String nMin = formatDouble(nMinObj.getValor());
         String nMinHora = formatHora(nMinObj.getHora());
-        String nMax = formatDouble(nMaxObj.getConsumo());
+        String nMax = formatDouble(nMaxObj.getValor());
         String nMaxHora = formatHora(nMaxObj.getHora());
         String nDia = formatDouble(norte.mediaDia(diaDeReferenciaPld));
         String nSemana = formatDouble(norte.mediaSemana(inicioSemana, diaDeReferenciaPld));
@@ -166,7 +165,7 @@ public class Image {
         Font fontHoraMinMax = new Font("Open Sans", Font.PLAIN, 11);
 
         int dataY = 136;
-        int diaX = 1025;
+        int diaX = 1035;
 
         int seNumerosY = 318;
         int seHoraY = 335;

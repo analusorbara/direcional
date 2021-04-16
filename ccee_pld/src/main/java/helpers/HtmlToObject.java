@@ -73,7 +73,7 @@ public class HtmlToObject {
 
                 PldHora pldHora = new PldHora();
                 pldHora.setHora(hora);
-                pldHora.setConsumo(Double.parseDouble(td.get(i).text().replaceAll(",", ".")));
+                pldHora.setValor(Double.parseDouble(td.get(i).text().replaceAll(",", ".")));
                 mercadoPldData.setPldHora(pldHora);
             }
         }

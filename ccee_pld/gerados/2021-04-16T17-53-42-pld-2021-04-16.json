@@ -1,0 +1,4815 @@
+{
+  "submercados" : [ {
+    "nome" : "SUDESTE",
+    "pldDatas" : [ {
+      "data" : "2021-04-04",
+      "pldHoras" : [ {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 148.74
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 135.66
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 148.36
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 148.57
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 147.24
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 142.19
+      }, {
+        "hora" : 0,
+        "valor" : 131.0
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 146.7
+      } ]
+    }, {
+      "data" : "2021-04-12",
+      "pldHoras" : [ {
+        "hora" : 16,
+        "valor" : 127.56
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 121.33
+      }, {
+        "hora" : 14,
+        "valor" : 127.22
+      }, {
+        "hora" : 20,
+        "valor" : 127.45
+      }, {
+        "hora" : 21,
+        "valor" : 127.41
+      }, {
+        "hora" : 12,
+        "valor" : 121.42
+      }, {
+        "hora" : 6,
+        "valor" : 100.29
+      }, {
+        "hora" : 15,
+        "valor" : 127.57
+      }, {
+        "hora" : 23,
+        "valor" : 121.91
+      }, {
+        "hora" : 19,
+        "valor" : 127.52
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 96.59
+      }, {
+        "hora" : 0,
+        "valor" : 109.1
+      }, {
+        "hora" : 17,
+        "valor" : 126.21
+      }, {
+        "hora" : 8,
+        "valor" : 120.24
+      }, {
+        "hora" : 1,
+        "valor" : 99.77
+      }, {
+        "hora" : 18,
+        "valor" : 127.5
+      }, {
+        "hora" : 7,
+        "valor" : 105.79
+      }, {
+        "hora" : 11,
+        "valor" : 121.43
+      }, {
+        "hora" : 22,
+        "valor" : 125.54
+      }, {
+        "hora" : 13,
+        "valor" : 124.64
+      }, {
+        "hora" : 10,
+        "valor" : 121.36
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-07",
+      "pldHoras" : [ {
+        "hora" : 15,
+        "valor" : 150.43
+      }, {
+        "hora" : 8,
+        "valor" : 146.48
+      }, {
+        "hora" : 0,
+        "valor" : 145.82
+      }, {
+        "hora" : 2,
+        "valor" : 133.62
+      }, {
+        "hora" : 14,
+        "valor" : 149.66
+      }, {
+        "hora" : 18,
+        "valor" : 150.66
+      }, {
+        "hora" : 3,
+        "valor" : 67.12
+      }, {
+        "hora" : 13,
+        "valor" : 149.19
+      }, {
+        "hora" : 19,
+        "valor" : 150.64
+      }, {
+        "hora" : 12,
+        "valor" : 148.66
+      }, {
+        "hora" : 7,
+        "valor" : 143.77
+      }, {
+        "hora" : 17,
+        "valor" : 149.2
+      }, {
+        "hora" : 20,
+        "valor" : 150.25
+      }, {
+        "hora" : 5,
+        "valor" : 138.64
+      }, {
+        "hora" : 6,
+        "valor" : 138.48
+      }, {
+        "hora" : 16,
+        "valor" : 150.31
+      }, {
+        "hora" : 22,
+        "valor" : 148.86
+      }, {
+        "hora" : 1,
+        "valor" : 120.42
+      }, {
+        "hora" : 4,
+        "valor" : 62.86
+      }, {
+        "hora" : 10,
+        "valor" : 149.14
+      }, {
+        "hora" : 23,
+        "valor" : 147.33
+      }, {
+        "hora" : 9,
+        "valor" : 148.44
+      }, {
+        "hora" : 21,
+        "valor" : 149.43
+      }, {
+        "hora" : 11,
+        "valor" : 149.14
+      } ]
+    }, {
+      "data" : "2021-04-11",
+      "pldHoras" : [ {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 111.18
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 125.11
+      }, {
+        "hora" : 22,
+        "valor" : 119.91
+      }, {
+        "hora" : 20,
+        "valor" : 122.99
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 95.98
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 121.81
+      }, {
+        "hora" : 23,
+        "valor" : 115.3
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 98.33
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 121.75
+      }, {
+        "hora" : 15,
+        "valor" : 77.43
+      } ]
+    }, {
+      "data" : "2021-04-01",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 103.22
+      }, {
+        "hora" : 12,
+        "valor" : 104.86
+      }, {
+        "hora" : 18,
+        "valor" : 105.77
+      }, {
+        "hora" : 22,
+        "valor" : 105.38
+      }, {
+        "hora" : 9,
+        "valor" : 104.78
+      }, {
+        "hora" : 5,
+        "valor" : 101.74
+      }, {
+        "hora" : 11,
+        "valor" : 104.96
+      }, {
+        "hora" : 10,
+        "valor" : 104.88
+      }, {
+        "hora" : 21,
+        "valor" : 106.03
+      }, {
+        "hora" : 8,
+        "valor" : 104.29
+      }, {
+        "hora" : 3,
+        "valor" : 101.46
+      }, {
+        "hora" : 7,
+        "valor" : 102.0
+      }, {
+        "hora" : 16,
+        "valor" : 105.93
+      }, {
+        "hora" : 15,
+        "valor" : 106.04
+      }, {
+        "hora" : 17,
+        "valor" : 105.54
+      }, {
+        "hora" : 23,
+        "valor" : 104.35
+      }, {
+        "hora" : 14,
+        "valor" : 105.99
+      }, {
+        "hora" : 19,
+        "valor" : 105.98
+      }, {
+        "hora" : 2,
+        "valor" : 101.73
+      }, {
+        "hora" : 6,
+        "valor" : 101.02
+      }, {
+        "hora" : 20,
+        "valor" : 105.88
+      }, {
+        "hora" : 1,
+        "valor" : 101.53
+      }, {
+        "hora" : 4,
+        "valor" : 101.21
+      }, {
+        "hora" : 13,
+        "valor" : 105.54
+      } ]
+    }, {
+      "data" : "2021-04-09",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 143.25
+      }, {
+        "hora" : 12,
+        "valor" : 146.95
+      }, {
+        "hora" : 11,
+        "valor" : 146.93
+      }, {
+        "hora" : 22,
+        "valor" : 149.39
+      }, {
+        "hora" : 8,
+        "valor" : 144.49
+      }, {
+        "hora" : 10,
+        "valor" : 146.82
+      }, {
+        "hora" : 5,
+        "valor" : 136.64
+      }, {
+        "hora" : 18,
+        "valor" : 150.91
+      }, {
+        "hora" : 9,
+        "valor" : 146.01
+      }, {
+        "hora" : 19,
+        "valor" : 151.58
+      }, {
+        "hora" : 13,
+        "valor" : 148.03
+      }, {
+        "hora" : 23,
+        "valor" : 145.67
+      }, {
+        "hora" : 3,
+        "valor" : 125.56
+      }, {
+        "hora" : 4,
+        "valor" : 118.47
+      }, {
+        "hora" : 21,
+        "valor" : 150.44
+      }, {
+        "hora" : 17,
+        "valor" : 150.15
+      }, {
+        "hora" : 20,
+        "valor" : 150.59
+      }, {
+        "hora" : 7,
+        "valor" : 140.75
+      }, {
+        "hora" : 14,
+        "valor" : 150.64
+      }, {
+        "hora" : 15,
+        "valor" : 151.03
+      }, {
+        "hora" : 1,
+        "valor" : 137.88
+      }, {
+        "hora" : 2,
+        "valor" : 133.22
+      }, {
+        "hora" : 6,
+        "valor" : 136.71
+      }, {
+        "hora" : 16,
+        "valor" : 151.53
+      } ]
+    }, {
+      "data" : "2021-04-14",
+      "pldHoras" : [ {
+        "hora" : 23,
+        "valor" : 121.67
+      }, {
+        "hora" : 3,
+        "valor" : 107.31
+      }, {
+        "hora" : 9,
+        "valor" : 121.09
+      }, {
+        "hora" : 21,
+        "valor" : 126.2
+      }, {
+        "hora" : 6,
+        "valor" : 110.23
+      }, {
+        "hora" : 7,
+        "valor" : 115.1
+      }, {
+        "hora" : 1,
+        "valor" : 113.18
+      }, {
+        "hora" : 20,
+        "valor" : 126.71
+      }, {
+        "hora" : 4,
+        "valor" : 106.97
+      }, {
+        "hora" : 12,
+        "valor" : 121.21
+      }, {
+        "hora" : 10,
+        "valor" : 121.13
+      }, {
+        "hora" : 5,
+        "valor" : 107.72
+      }, {
+        "hora" : 13,
+        "valor" : 124.64
+      }, {
+        "hora" : 22,
+        "valor" : 124.38
+      }, {
+        "hora" : 14,
+        "valor" : 126.52
+      }, {
+        "hora" : 15,
+        "valor" : 126.69
+      }, {
+        "hora" : 19,
+        "valor" : 126.95
+      }, {
+        "hora" : 16,
+        "valor" : 127.58
+      }, {
+        "hora" : 17,
+        "valor" : 126.46
+      }, {
+        "hora" : 11,
+        "valor" : 121.16
+      }, {
+        "hora" : 18,
+        "valor" : 126.74
+      }, {
+        "hora" : 8,
+        "valor" : 120.26
+      }, {
+        "hora" : 0,
+        "valor" : 119.15
+      }, {
+        "hora" : 2,
+        "valor" : 104.52
+      } ]
+    }, {
+      "data" : "2021-04-02",
+      "pldHoras" : [ {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 103.55
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 104.49
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 69.08
+      }, {
+        "hora" : 12,
+        "valor" : 61.35
+      }, {
+        "hora" : 18,
+        "valor" : 103.81
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 100.86
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 101.6
+      }, {
+        "hora" : 2,
+        "valor" : 81.89
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 100.31
+      }, {
+        "hora" : 20,
+        "valor" : 104.08
+      }, {
+        "hora" : 1,
+        "valor" : 98.6
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 73.28
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 102.85
+      } ]
+    }, {
+      "data" : "2021-04-05",
+      "pldHoras" : [ {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 146.48
+      }, {
+        "hora" : 7,
+        "valor" : 137.53
+      }, {
+        "hora" : 13,
+        "valor" : 148.66
+      }, {
+        "hora" : 9,
+        "valor" : 146.25
+      }, {
+        "hora" : 12,
+        "valor" : 146.53
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 125.89
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 126.03
+      }, {
+        "hora" : 8,
+        "valor" : 144.11
+      }, {
+        "hora" : 17,
+        "valor" : 148.73
+      }, {
+        "hora" : 14,
+        "valor" : 148.72
+      }, {
+        "hora" : 21,
+        "valor" : 148.95
+      }, {
+        "hora" : 23,
+        "valor" : 146.27
+      }, {
+        "hora" : 18,
+        "valor" : 149.43
+      }, {
+        "hora" : 11,
+        "valor" : 146.51
+      }, {
+        "hora" : 16,
+        "valor" : 149.12
+      }, {
+        "hora" : 19,
+        "valor" : 150.98
+      }, {
+        "hora" : 20,
+        "valor" : 149.83
+      }, {
+        "hora" : 15,
+        "valor" : 149.03
+      }, {
+        "hora" : 22,
+        "valor" : 148.66
+      } ]
+    }, {
+      "data" : "2021-04-08",
+      "pldHoras" : [ {
+        "hora" : 20,
+        "valor" : 149.59
+      }, {
+        "hora" : 6,
+        "valor" : 137.19
+      }, {
+        "hora" : 0,
+        "valor" : 143.78
+      }, {
+        "hora" : 19,
+        "valor" : 149.75
+      }, {
+        "hora" : 17,
+        "valor" : 149.35
+      }, {
+        "hora" : 1,
+        "valor" : 136.14
+      }, {
+        "hora" : 3,
+        "valor" : 80.16
+      }, {
+        "hora" : 11,
+        "valor" : 145.65
+      }, {
+        "hora" : 14,
+        "valor" : 147.09
+      }, {
+        "hora" : 21,
+        "valor" : 149.45
+      }, {
+        "hora" : 2,
+        "valor" : 100.89
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 144.08
+      }, {
+        "hora" : 22,
+        "valor" : 148.12
+      }, {
+        "hora" : 7,
+        "valor" : 142.05
+      }, {
+        "hora" : 16,
+        "valor" : 149.51
+      }, {
+        "hora" : 9,
+        "valor" : 147.78
+      }, {
+        "hora" : 12,
+        "valor" : 147.93
+      }, {
+        "hora" : 13,
+        "valor" : 146.34
+      }, {
+        "hora" : 5,
+        "valor" : 131.35
+      }, {
+        "hora" : 18,
+        "valor" : 149.63
+      }, {
+        "hora" : 10,
+        "valor" : 147.95
+      }, {
+        "hora" : 15,
+        "valor" : 149.57
+      }, {
+        "hora" : 23,
+        "valor" : 145.77
+      } ]
+    }, {
+      "data" : "2021-04-10",
+      "pldHoras" : [ {
+        "hora" : 1,
+        "valor" : 104.45
+      }, {
+        "hora" : 6,
+        "valor" : 96.34
+      }, {
+        "hora" : 19,
+        "valor" : 122.32
+      }, {
+        "hora" : 22,
+        "valor" : 117.17
+      }, {
+        "hora" : 17,
+        "valor" : 116.3
+      }, {
+        "hora" : 21,
+        "valor" : 119.45
+      }, {
+        "hora" : 3,
+        "valor" : 101.56
+      }, {
+        "hora" : 2,
+        "valor" : 100.54
+      }, {
+        "hora" : 8,
+        "valor" : 98.69
+      }, {
+        "hora" : 23,
+        "valor" : 117.25
+      }, {
+        "hora" : 12,
+        "valor" : 100.2
+      }, {
+        "hora" : 16,
+        "valor" : 110.24
+      }, {
+        "hora" : 0,
+        "valor" : 115.36
+      }, {
+        "hora" : 14,
+        "valor" : 101.39
+      }, {
+        "hora" : 4,
+        "valor" : 99.72
+      }, {
+        "hora" : 9,
+        "valor" : 101.43
+      }, {
+        "hora" : 15,
+        "valor" : 102.78
+      }, {
+        "hora" : 13,
+        "valor" : 100.1
+      }, {
+        "hora" : 5,
+        "valor" : 99.19
+      }, {
+        "hora" : 20,
+        "valor" : 120.23
+      }, {
+        "hora" : 7,
+        "valor" : 95.98
+      }, {
+        "hora" : 10,
+        "valor" : 100.98
+      }, {
+        "hora" : 11,
+        "valor" : 100.69
+      }, {
+        "hora" : 18,
+        "valor" : 123.35
+      } ]
+    }, {
+      "data" : "2021-04-06",
+      "pldHoras" : [ {
+        "hora" : 19,
+        "valor" : 153.02
+      }, {
+        "hora" : 13,
+        "valor" : 151.37
+      }, {
+        "hora" : 20,
+        "valor" : 152.86
+      }, {
+        "hora" : 10,
+        "valor" : 151.25
+      }, {
+        "hora" : 3,
+        "valor" : 66.18
+      }, {
+        "hora" : 5,
+        "valor" : 140.78
+      }, {
+        "hora" : 23,
+        "valor" : 148.58
+      }, {
+        "hora" : 1,
+        "valor" : 121.12
+      }, {
+        "hora" : 21,
+        "valor" : 151.84
+      }, {
+        "hora" : 6,
+        "valor" : 141.39
+      }, {
+        "hora" : 11,
+        "valor" : 151.25
+      }, {
+        "hora" : 16,
+        "valor" : 152.91
+      }, {
+        "hora" : 2,
+        "valor" : 137.95
+      }, {
+        "hora" : 4,
+        "valor" : 61.48
+      }, {
+        "hora" : 7,
+        "valor" : 144.29
+      }, {
+        "hora" : 0,
+        "valor" : 146.4
+      }, {
+        "hora" : 14,
+        "valor" : 152.0
+      }, {
+        "hora" : 22,
+        "valor" : 150.94
+      }, {
+        "hora" : 8,
+        "valor" : 148.84
+      }, {
+        "hora" : 9,
+        "valor" : 150.34
+      }, {
+        "hora" : 12,
+        "valor" : 151.11
+      }, {
+        "hora" : 15,
+        "valor" : 153.44
+      }, {
+        "hora" : 18,
+        "valor" : 152.32
+      }, {
+        "hora" : 17,
+        "valor" : 151.4
+      } ]
+    }, {
+      "data" : "2021-04-15",
+      "pldHoras" : [ {
+        "hora" : 11,
+        "valor" : 112.63
+      }, {
+        "hora" : 18,
+        "valor" : 126.67
+      }, {
+        "hora" : 10,
+        "valor" : 121.96
+      }, {
+        "hora" : 12,
+        "valor" : 123.86
+      }, {
+        "hora" : 19,
+        "valor" : 126.43
+      }, {
+        "hora" : 0,
+        "valor" : 117.92
+      }, {
+        "hora" : 8,
+        "valor" : 110.2
+      }, {
+        "hora" : 13,
+        "valor" : 121.96
+      }, {
+        "hora" : 23,
+        "valor" : 120.51
+      }, {
+        "hora" : 6,
+        "valor" : 106.49
+      }, {
+        "hora" : 14,
+        "valor" : 122.6
+      }, {
+        "hora" : 3,
+        "valor" : 49.94
+      }, {
+        "hora" : 4,
+        "valor" : 99.43
+      }, {
+        "hora" : 22,
+        "valor" : 123.09
+      }, {
+        "hora" : 2,
+        "valor" : 98.74
+      }, {
+        "hora" : 20,
+        "valor" : 125.79
+      }, {
+        "hora" : 7,
+        "valor" : 118.72
+      }, {
+        "hora" : 15,
+        "valor" : 128.05
+      }, {
+        "hora" : 16,
+        "valor" : 129.02
+      }, {
+        "hora" : 1,
+        "valor" : 54.54
+      }, {
+        "hora" : 5,
+        "valor" : 76.57
+      }, {
+        "hora" : 9,
+        "valor" : 113.39
+      }, {
+        "hora" : 17,
+        "valor" : 127.94
+      }, {
+        "hora" : 21,
+        "valor" : 124.92
+      } ]
+    }, {
+      "data" : "2021-04-13",
+      "pldHoras" : [ {
+        "hora" : 2,
+        "valor" : 104.02
+      }, {
+        "hora" : 10,
+        "valor" : 124.72
+      }, {
+        "hora" : 23,
+        "valor" : 120.71
+      }, {
+        "hora" : 8,
+        "valor" : 122.16
+      }, {
+        "hora" : 6,
+        "valor" : 111.14
+      }, {
+        "hora" : 20,
+        "valor" : 124.73
+      }, {
+        "hora" : 13,
+        "valor" : 125.15
+      }, {
+        "hora" : 16,
+        "valor" : 126.2
+      }, {
+        "hora" : 19,
+        "valor" : 126.71
+      }, {
+        "hora" : 9,
+        "valor" : 122.72
+      }, {
+        "hora" : 22,
+        "valor" : 121.0
+      }, {
+        "hora" : 4,
+        "valor" : 102.26
+      }, {
+        "hora" : 0,
+        "valor" : 123.27
+      }, {
+        "hora" : 5,
+        "valor" : 109.12
+      }, {
+        "hora" : 12,
+        "valor" : 124.25
+      }, {
+        "hora" : 14,
+        "valor" : 125.77
+      }, {
+        "hora" : 18,
+        "valor" : 127.39
+      }, {
+        "hora" : 1,
+        "valor" : 108.89
+      }, {
+        "hora" : 21,
+        "valor" : 121.65
+      }, {
+        "hora" : 17,
+        "valor" : 122.3
+      }, {
+        "hora" : 7,
+        "valor" : 118.88
+      }, {
+        "hora" : 3,
+        "valor" : 99.39
+      }, {
+        "hora" : 15,
+        "valor" : 126.54
+      }, {
+        "hora" : 11,
+        "valor" : 124.18
+      } ]
+    }, {
+      "data" : "2021-04-16",
+      "pldHoras" : [ {
+        "hora" : 6,
+        "valor" : 104.43
+      }, {
+        "hora" : 7,
+        "valor" : 114.17
+      }, {
+        "hora" : 11,
+        "valor" : 120.48
+      }, {
+        "hora" : 12,
+        "valor" : 120.81
+      }, {
+        "hora" : 16,
+        "valor" : 126.61
+      }, {
+        "hora" : 2,
+        "valor" : 103.41
+      }, {
+        "hora" : 22,
+        "valor" : 123.8
+      }, {
+        "hora" : 8,
+        "valor" : 118.02
+      }, {
+        "hora" : 19,
+        "valor" : 125.62
+      }, {
+        "hora" : 17,
+        "valor" : 124.78
+      }, {
+        "hora" : 18,
+        "valor" : 127.14
+      }, {
+        "hora" : 10,
+        "valor" : 121.02
+      }, {
+        "hora" : 20,
+        "valor" : 124.46
+      }, {
+        "hora" : 14,
+        "valor" : 123.33
+      }, {
+        "hora" : 13,
+        "valor" : 122.69
+      }, {
+        "hora" : 1,
+        "valor" : 103.98
+      }, {
+        "hora" : 0,
+        "valor" : 116.12
+      }, {
+        "hora" : 3,
+        "valor" : 101.96
+      }, {
+        "hora" : 9,
+        "valor" : 120.61
+      }, {
+        "hora" : 15,
+        "valor" : 124.98
+      }, {
+        "hora" : 5,
+        "valor" : 108.65
+      }, {
+        "hora" : 4,
+        "valor" : 101.74
+      }, {
+        "hora" : 21,
+        "valor" : 124.26
+      }, {
+        "hora" : 23,
+        "valor" : 123.05
+      } ]
+    }, {
+      "data" : "2021-04-03",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 147.92
+      }, {
+        "hora" : 13,
+        "valor" : 134.12
+      }, {
+        "hora" : 9,
+        "valor" : 72.79
+      }, {
+        "hora" : 12,
+        "valor" : 133.48
+      }, {
+        "hora" : 18,
+        "valor" : 148.69
+      }, {
+        "hora" : 16,
+        "valor" : 141.71
+      }, {
+        "hora" : 1,
+        "valor" : 107.99
+      }, {
+        "hora" : 15,
+        "valor" : 139.99
+      }, {
+        "hora" : 10,
+        "valor" : 130.67
+      }, {
+        "hora" : 11,
+        "valor" : 134.64
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 148.77
+      }, {
+        "hora" : 22,
+        "valor" : 147.54
+      }, {
+        "hora" : 23,
+        "valor" : 143.48
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 143.58
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 148.75
+      }, {
+        "hora" : 21,
+        "valor" : 148.54
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 135.59
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      } ]
+    } ]
+  }, {
+    "nome" : "SUL",
+    "pldDatas" : [ {
+      "data" : "2021-04-04",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 131.0
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 146.7
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 142.19
+      }, {
+        "hora" : 21,
+        "valor" : 148.36
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 135.66
+      }, {
+        "hora" : 19,
+        "valor" : 148.57
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 148.74
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 147.24
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-09",
+      "pldHoras" : [ {
+        "hora" : 8,
+        "valor" : 150.05
+      }, {
+        "hora" : 17,
+        "valor" : 150.76
+      }, {
+        "hora" : 3,
+        "valor" : 125.56
+      }, {
+        "hora" : 13,
+        "valor" : 150.68
+      }, {
+        "hora" : 23,
+        "valor" : 147.93
+      }, {
+        "hora" : 12,
+        "valor" : 149.84
+      }, {
+        "hora" : 6,
+        "valor" : 146.88
+      }, {
+        "hora" : 21,
+        "valor" : 150.53
+      }, {
+        "hora" : 1,
+        "valor" : 144.36
+      }, {
+        "hora" : 2,
+        "valor" : 133.22
+      }, {
+        "hora" : 15,
+        "valor" : 152.01
+      }, {
+        "hora" : 7,
+        "valor" : 148.39
+      }, {
+        "hora" : 5,
+        "valor" : 136.64
+      }, {
+        "hora" : 4,
+        "valor" : 118.47
+      }, {
+        "hora" : 20,
+        "valor" : 150.79
+      }, {
+        "hora" : 22,
+        "valor" : 149.61
+      }, {
+        "hora" : 0,
+        "valor" : 145.96
+      }, {
+        "hora" : 19,
+        "valor" : 153.52
+      }, {
+        "hora" : 11,
+        "valor" : 150.65
+      }, {
+        "hora" : 9,
+        "valor" : 150.56
+      }, {
+        "hora" : 10,
+        "valor" : 150.65
+      }, {
+        "hora" : 16,
+        "valor" : 152.1
+      }, {
+        "hora" : 18,
+        "valor" : 152.25
+      }, {
+        "hora" : 14,
+        "valor" : 151.31
+      } ]
+    }, {
+      "data" : "2021-04-11",
+      "pldHoras" : [ {
+        "hora" : 18,
+        "valor" : 128.14
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 126.86
+      }, {
+        "hora" : 17,
+        "valor" : 122.5
+      }, {
+        "hora" : 22,
+        "valor" : 128.51
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 128.51
+      }, {
+        "hora" : 1,
+        "valor" : 61.97
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 98.33
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 128.51
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 128.51
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 77.43
+      }, {
+        "hora" : 0,
+        "valor" : 127.31
+      } ]
+    }, {
+      "data" : "2021-04-05",
+      "pldHoras" : [ {
+        "hora" : 19,
+        "valor" : 150.98
+      }, {
+        "hora" : 20,
+        "valor" : 149.83
+      }, {
+        "hora" : 11,
+        "valor" : 148.65
+      }, {
+        "hora" : 9,
+        "valor" : 148.62
+      }, {
+        "hora" : 22,
+        "valor" : 148.66
+      }, {
+        "hora" : 10,
+        "valor" : 148.63
+      }, {
+        "hora" : 6,
+        "valor" : 126.03
+      }, {
+        "hora" : 12,
+        "valor" : 148.62
+      }, {
+        "hora" : 17,
+        "valor" : 148.73
+      }, {
+        "hora" : 21,
+        "valor" : 148.95
+      }, {
+        "hora" : 14,
+        "valor" : 148.72
+      }, {
+        "hora" : 18,
+        "valor" : 149.43
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 148.66
+      }, {
+        "hora" : 16,
+        "valor" : 149.12
+      }, {
+        "hora" : 7,
+        "valor" : 148.61
+      }, {
+        "hora" : 8,
+        "valor" : 148.62
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 148.41
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 125.89
+      }, {
+        "hora" : 15,
+        "valor" : 149.03
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-13",
+      "pldHoras" : [ {
+        "hora" : 21,
+        "valor" : 127.56
+      }, {
+        "hora" : 11,
+        "valor" : 127.54
+      }, {
+        "hora" : 12,
+        "valor" : 127.35
+      }, {
+        "hora" : 17,
+        "valor" : 127.62
+      }, {
+        "hora" : 4,
+        "valor" : 102.26
+      }, {
+        "hora" : 16,
+        "valor" : 127.6
+      }, {
+        "hora" : 20,
+        "valor" : 127.61
+      }, {
+        "hora" : 7,
+        "valor" : 127.48
+      }, {
+        "hora" : 18,
+        "valor" : 128.04
+      }, {
+        "hora" : 0,
+        "valor" : 126.93
+      }, {
+        "hora" : 15,
+        "valor" : 127.58
+      }, {
+        "hora" : 10,
+        "valor" : 127.53
+      }, {
+        "hora" : 14,
+        "valor" : 127.56
+      }, {
+        "hora" : 1,
+        "valor" : 125.58
+      }, {
+        "hora" : 5,
+        "valor" : 119.54
+      }, {
+        "hora" : 2,
+        "valor" : 118.06
+      }, {
+        "hora" : 19,
+        "valor" : 128.04
+      }, {
+        "hora" : 6,
+        "valor" : 126.69
+      }, {
+        "hora" : 8,
+        "valor" : 127.5
+      }, {
+        "hora" : 9,
+        "valor" : 127.52
+      }, {
+        "hora" : 13,
+        "valor" : 127.56
+      }, {
+        "hora" : 3,
+        "valor" : 99.39
+      }, {
+        "hora" : 23,
+        "valor" : 126.87
+      }, {
+        "hora" : 22,
+        "valor" : 127.26
+      } ]
+    }, {
+      "data" : "2021-04-10",
+      "pldHoras" : [ {
+        "hora" : 17,
+        "valor" : 127.51
+      }, {
+        "hora" : 7,
+        "valor" : 95.99
+      }, {
+        "hora" : 8,
+        "valor" : 116.1
+      }, {
+        "hora" : 21,
+        "valor" : 127.66
+      }, {
+        "hora" : 3,
+        "valor" : 101.56
+      }, {
+        "hora" : 14,
+        "valor" : 127.83
+      }, {
+        "hora" : 12,
+        "valor" : 127.83
+      }, {
+        "hora" : 15,
+        "valor" : 127.81
+      }, {
+        "hora" : 2,
+        "valor" : 126.55
+      }, {
+        "hora" : 20,
+        "valor" : 127.72
+      }, {
+        "hora" : 0,
+        "valor" : 127.84
+      }, {
+        "hora" : 5,
+        "valor" : 99.19
+      }, {
+        "hora" : 1,
+        "valor" : 127.48
+      }, {
+        "hora" : 19,
+        "valor" : 127.83
+      }, {
+        "hora" : 22,
+        "valor" : 127.15
+      }, {
+        "hora" : 4,
+        "valor" : 99.72
+      }, {
+        "hora" : 13,
+        "valor" : 127.84
+      }, {
+        "hora" : 16,
+        "valor" : 127.8
+      }, {
+        "hora" : 18,
+        "valor" : 127.81
+      }, {
+        "hora" : 23,
+        "valor" : 124.33
+      }, {
+        "hora" : 9,
+        "valor" : 127.83
+      }, {
+        "hora" : 11,
+        "valor" : 127.83
+      }, {
+        "hora" : 6,
+        "valor" : 96.34
+      }, {
+        "hora" : 10,
+        "valor" : 127.83
+      } ]
+    }, {
+      "data" : "2021-04-15",
+      "pldHoras" : [ {
+        "hora" : 8,
+        "valor" : 126.83
+      }, {
+        "hora" : 19,
+        "valor" : 129.34
+      }, {
+        "hora" : 21,
+        "valor" : 125.79
+      }, {
+        "hora" : 11,
+        "valor" : 126.77
+      }, {
+        "hora" : 10,
+        "valor" : 125.95
+      }, {
+        "hora" : 18,
+        "valor" : 129.3
+      }, {
+        "hora" : 17,
+        "valor" : 127.94
+      }, {
+        "hora" : 22,
+        "valor" : 125.39
+      }, {
+        "hora" : 0,
+        "valor" : 122.63
+      }, {
+        "hora" : 13,
+        "valor" : 127.53
+      }, {
+        "hora" : 20,
+        "valor" : 126.53
+      }, {
+        "hora" : 14,
+        "valor" : 128.16
+      }, {
+        "hora" : 9,
+        "valor" : 126.6
+      }, {
+        "hora" : 2,
+        "valor" : 110.5
+      }, {
+        "hora" : 7,
+        "valor" : 125.5
+      }, {
+        "hora" : 5,
+        "valor" : 114.91
+      }, {
+        "hora" : 12,
+        "valor" : 125.56
+      }, {
+        "hora" : 15,
+        "valor" : 128.76
+      }, {
+        "hora" : 16,
+        "valor" : 129.27
+      }, {
+        "hora" : 3,
+        "valor" : 49.94
+      }, {
+        "hora" : 6,
+        "valor" : 125.19
+      }, {
+        "hora" : 23,
+        "valor" : 125.39
+      }, {
+        "hora" : 1,
+        "valor" : 121.96
+      }, {
+        "hora" : 4,
+        "valor" : 99.43
+      } ]
+    }, {
+      "data" : "2021-04-12",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 126.25
+      }, {
+        "hora" : 23,
+        "valor" : 129.37
+      }, {
+        "hora" : 8,
+        "valor" : 129.57
+      }, {
+        "hora" : 5,
+        "valor" : 96.59
+      }, {
+        "hora" : 10,
+        "valor" : 129.61
+      }, {
+        "hora" : 12,
+        "valor" : 129.52
+      }, {
+        "hora" : 21,
+        "valor" : 129.63
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 129.84
+      }, {
+        "hora" : 16,
+        "valor" : 129.84
+      }, {
+        "hora" : 18,
+        "valor" : 129.76
+      }, {
+        "hora" : 17,
+        "valor" : 129.74
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 99.77
+      }, {
+        "hora" : 15,
+        "valor" : 129.85
+      }, {
+        "hora" : 11,
+        "valor" : 129.63
+      }, {
+        "hora" : 7,
+        "valor" : 129.45
+      }, {
+        "hora" : 20,
+        "valor" : 129.69
+      }, {
+        "hora" : 14,
+        "valor" : 129.78
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 129.59
+      }, {
+        "hora" : 13,
+        "valor" : 129.66
+      }, {
+        "hora" : 6,
+        "valor" : 100.29
+      }, {
+        "hora" : 22,
+        "valor" : 129.58
+      } ]
+    }, {
+      "data" : "2021-04-16",
+      "pldHoras" : [ {
+        "hora" : 17,
+        "valor" : 125.44
+      }, {
+        "hora" : 8,
+        "valor" : 125.23
+      }, {
+        "hora" : 2,
+        "valor" : 103.41
+      }, {
+        "hora" : 12,
+        "valor" : 123.76
+      }, {
+        "hora" : 16,
+        "valor" : 127.18
+      }, {
+        "hora" : 6,
+        "valor" : 124.11
+      }, {
+        "hora" : 14,
+        "valor" : 125.45
+      }, {
+        "hora" : 3,
+        "valor" : 101.96
+      }, {
+        "hora" : 11,
+        "valor" : 125.22
+      }, {
+        "hora" : 13,
+        "valor" : 125.05
+      }, {
+        "hora" : 21,
+        "valor" : 125.34
+      }, {
+        "hora" : 7,
+        "valor" : 124.1
+      }, {
+        "hora" : 22,
+        "valor" : 124.13
+      }, {
+        "hora" : 1,
+        "valor" : 121.25
+      }, {
+        "hora" : 5,
+        "valor" : 108.65
+      }, {
+        "hora" : 0,
+        "valor" : 123.2
+      }, {
+        "hora" : 15,
+        "valor" : 125.55
+      }, {
+        "hora" : 4,
+        "valor" : 101.74
+      }, {
+        "hora" : 10,
+        "valor" : 125.21
+      }, {
+        "hora" : 19,
+        "valor" : 128.43
+      }, {
+        "hora" : 23,
+        "valor" : 123.05
+      }, {
+        "hora" : 9,
+        "valor" : 125.2
+      }, {
+        "hora" : 18,
+        "valor" : 128.8
+      }, {
+        "hora" : 20,
+        "valor" : 125.82
+      } ]
+    }, {
+      "data" : "2021-04-14",
+      "pldHoras" : [ {
+        "hora" : 1,
+        "valor" : 123.93
+      }, {
+        "hora" : 5,
+        "valor" : 118.6
+      }, {
+        "hora" : 16,
+        "valor" : 127.92
+      }, {
+        "hora" : 3,
+        "valor" : 107.31
+      }, {
+        "hora" : 22,
+        "valor" : 126.07
+      }, {
+        "hora" : 19,
+        "valor" : 127.94
+      }, {
+        "hora" : 20,
+        "valor" : 126.95
+      }, {
+        "hora" : 0,
+        "valor" : 125.95
+      }, {
+        "hora" : 14,
+        "valor" : 127.25
+      }, {
+        "hora" : 7,
+        "valor" : 126.55
+      }, {
+        "hora" : 15,
+        "valor" : 127.21
+      }, {
+        "hora" : 23,
+        "valor" : 124.63
+      }, {
+        "hora" : 6,
+        "valor" : 126.23
+      }, {
+        "hora" : 9,
+        "valor" : 127.4
+      }, {
+        "hora" : 8,
+        "valor" : 127.38
+      }, {
+        "hora" : 21,
+        "valor" : 126.56
+      }, {
+        "hora" : 18,
+        "valor" : 127.83
+      }, {
+        "hora" : 13,
+        "valor" : 126.94
+      }, {
+        "hora" : 11,
+        "valor" : 127.41
+      }, {
+        "hora" : 12,
+        "valor" : 126.21
+      }, {
+        "hora" : 17,
+        "valor" : 127.1
+      }, {
+        "hora" : 4,
+        "valor" : 106.97
+      }, {
+        "hora" : 2,
+        "valor" : 123.48
+      }, {
+        "hora" : 10,
+        "valor" : 127.42
+      } ]
+    }, {
+      "data" : "2021-04-01",
+      "pldHoras" : [ {
+        "hora" : 6,
+        "valor" : 103.31
+      }, {
+        "hora" : 1,
+        "valor" : 103.29
+      }, {
+        "hora" : 4,
+        "valor" : 101.21
+      }, {
+        "hora" : 17,
+        "valor" : 105.54
+      }, {
+        "hora" : 22,
+        "valor" : 105.38
+      }, {
+        "hora" : 10,
+        "valor" : 104.88
+      }, {
+        "hora" : 9,
+        "valor" : 104.78
+      }, {
+        "hora" : 13,
+        "valor" : 105.54
+      }, {
+        "hora" : 16,
+        "valor" : 105.93
+      }, {
+        "hora" : 21,
+        "valor" : 106.03
+      }, {
+        "hora" : 0,
+        "valor" : 103.83
+      }, {
+        "hora" : 8,
+        "valor" : 104.29
+      }, {
+        "hora" : 15,
+        "valor" : 106.04
+      }, {
+        "hora" : 7,
+        "valor" : 103.48
+      }, {
+        "hora" : 19,
+        "valor" : 105.98
+      }, {
+        "hora" : 12,
+        "valor" : 104.86
+      }, {
+        "hora" : 5,
+        "valor" : 101.74
+      }, {
+        "hora" : 3,
+        "valor" : 101.46
+      }, {
+        "hora" : 14,
+        "valor" : 105.99
+      }, {
+        "hora" : 18,
+        "valor" : 105.77
+      }, {
+        "hora" : 2,
+        "valor" : 102.3
+      }, {
+        "hora" : 11,
+        "valor" : 104.96
+      }, {
+        "hora" : 20,
+        "valor" : 105.88
+      }, {
+        "hora" : 23,
+        "valor" : 104.35
+      } ]
+    }, {
+      "data" : "2021-04-06",
+      "pldHoras" : [ {
+        "hora" : 6,
+        "valor" : 146.91
+      }, {
+        "hora" : 22,
+        "valor" : 150.94
+      }, {
+        "hora" : 4,
+        "valor" : 61.48
+      }, {
+        "hora" : 19,
+        "valor" : 153.02
+      }, {
+        "hora" : 0,
+        "valor" : 148.76
+      }, {
+        "hora" : 5,
+        "valor" : 140.78
+      }, {
+        "hora" : 7,
+        "valor" : 151.11
+      }, {
+        "hora" : 9,
+        "valor" : 151.24
+      }, {
+        "hora" : 16,
+        "valor" : 152.91
+      }, {
+        "hora" : 21,
+        "valor" : 151.84
+      }, {
+        "hora" : 1,
+        "valor" : 148.72
+      }, {
+        "hora" : 17,
+        "valor" : 151.4
+      }, {
+        "hora" : 18,
+        "valor" : 152.32
+      }, {
+        "hora" : 2,
+        "valor" : 137.95
+      }, {
+        "hora" : 10,
+        "valor" : 151.25
+      }, {
+        "hora" : 8,
+        "valor" : 151.18
+      }, {
+        "hora" : 20,
+        "valor" : 152.86
+      }, {
+        "hora" : 3,
+        "valor" : 66.18
+      }, {
+        "hora" : 14,
+        "valor" : 152.0
+      }, {
+        "hora" : 13,
+        "valor" : 151.37
+      }, {
+        "hora" : 12,
+        "valor" : 151.11
+      }, {
+        "hora" : 11,
+        "valor" : 151.25
+      }, {
+        "hora" : 23,
+        "valor" : 149.1
+      }, {
+        "hora" : 15,
+        "valor" : 153.44
+      } ]
+    }, {
+      "data" : "2021-04-08",
+      "pldHoras" : [ {
+        "hora" : 6,
+        "valor" : 145.93
+      }, {
+        "hora" : 13,
+        "valor" : 148.92
+      }, {
+        "hora" : 19,
+        "valor" : 149.75
+      }, {
+        "hora" : 14,
+        "valor" : 149.37
+      }, {
+        "hora" : 20,
+        "valor" : 149.59
+      }, {
+        "hora" : 2,
+        "valor" : 100.89
+      }, {
+        "hora" : 1,
+        "valor" : 143.67
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 149.63
+      }, {
+        "hora" : 7,
+        "valor" : 147.29
+      }, {
+        "hora" : 0,
+        "valor" : 144.16
+      }, {
+        "hora" : 9,
+        "valor" : 148.03
+      }, {
+        "hora" : 8,
+        "valor" : 148.34
+      }, {
+        "hora" : 11,
+        "valor" : 149.15
+      }, {
+        "hora" : 3,
+        "valor" : 80.16
+      }, {
+        "hora" : 16,
+        "valor" : 149.57
+      }, {
+        "hora" : 10,
+        "valor" : 148.29
+      }, {
+        "hora" : 5,
+        "valor" : 131.36
+      }, {
+        "hora" : 12,
+        "valor" : 147.93
+      }, {
+        "hora" : 21,
+        "valor" : 149.45
+      }, {
+        "hora" : 22,
+        "valor" : 148.12
+      }, {
+        "hora" : 23,
+        "valor" : 146.24
+      }, {
+        "hora" : 15,
+        "valor" : 149.64
+      }, {
+        "hora" : 17,
+        "valor" : 149.36
+      } ]
+    }, {
+      "data" : "2021-04-07",
+      "pldHoras" : [ {
+        "hora" : 21,
+        "valor" : 149.43
+      }, {
+        "hora" : 2,
+        "valor" : 144.23
+      }, {
+        "hora" : 10,
+        "valor" : 149.14
+      }, {
+        "hora" : 6,
+        "valor" : 147.04
+      }, {
+        "hora" : 7,
+        "valor" : 148.48
+      }, {
+        "hora" : 1,
+        "valor" : 146.32
+      }, {
+        "hora" : 3,
+        "valor" : 67.12
+      }, {
+        "hora" : 4,
+        "valor" : 62.86
+      }, {
+        "hora" : 12,
+        "valor" : 148.66
+      }, {
+        "hora" : 15,
+        "valor" : 150.43
+      }, {
+        "hora" : 23,
+        "valor" : 147.33
+      }, {
+        "hora" : 11,
+        "valor" : 149.14
+      }, {
+        "hora" : 13,
+        "valor" : 149.19
+      }, {
+        "hora" : 20,
+        "valor" : 150.25
+      }, {
+        "hora" : 18,
+        "valor" : 150.66
+      }, {
+        "hora" : 16,
+        "valor" : 150.31
+      }, {
+        "hora" : 9,
+        "valor" : 148.77
+      }, {
+        "hora" : 14,
+        "valor" : 149.66
+      }, {
+        "hora" : 0,
+        "valor" : 146.72
+      }, {
+        "hora" : 8,
+        "valor" : 148.8
+      }, {
+        "hora" : 17,
+        "valor" : 149.2
+      }, {
+        "hora" : 19,
+        "valor" : 150.64
+      }, {
+        "hora" : 5,
+        "valor" : 138.64
+      }, {
+        "hora" : 22,
+        "valor" : 148.86
+      } ]
+    }, {
+      "data" : "2021-04-02",
+      "pldHoras" : [ {
+        "hora" : 11,
+        "valor" : 69.08
+      }, {
+        "hora" : 20,
+        "valor" : 104.08
+      }, {
+        "hora" : 19,
+        "valor" : 104.49
+      }, {
+        "hora" : 0,
+        "valor" : 102.35
+      }, {
+        "hora" : 21,
+        "valor" : 103.55
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 102.29
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 61.35
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 103.81
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 81.89
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 102.85
+      }, {
+        "hora" : 17,
+        "valor" : 100.97
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 73.28
+      }, {
+        "hora" : 1,
+        "valor" : 98.6
+      } ]
+    }, {
+      "data" : "2021-04-03",
+      "pldHoras" : [ {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 148.77
+      }, {
+        "hora" : 22,
+        "valor" : 147.68
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 143.43
+      }, {
+        "hora" : 0,
+        "valor" : 147.96
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 143.48
+      }, {
+        "hora" : 12,
+        "valor" : 133.48
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 130.68
+      }, {
+        "hora" : 9,
+        "valor" : 72.79
+      }, {
+        "hora" : 13,
+        "valor" : 134.12
+      }, {
+        "hora" : 19,
+        "valor" : 148.75
+      }, {
+        "hora" : 1,
+        "valor" : 111.67
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 135.59
+      }, {
+        "hora" : 17,
+        "valor" : 147.21
+      }, {
+        "hora" : 18,
+        "valor" : 148.69
+      }, {
+        "hora" : 15,
+        "valor" : 139.99
+      }, {
+        "hora" : 21,
+        "valor" : 148.54
+      }, {
+        "hora" : 11,
+        "valor" : 134.64
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      } ]
+    } ]
+  }, {
+    "nome" : "NORTE",
+    "pldDatas" : [ {
+      "data" : "2021-04-07",
+      "pldHoras" : [ {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-08",
+      "pldHoras" : [ {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-05",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-16",
+      "pldHoras" : [ {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-12",
+      "pldHoras" : [ {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-10",
+      "pldHoras" : [ {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-03",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-04",
+      "pldHoras" : [ {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-09",
+      "pldHoras" : [ {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-02",
+      "pldHoras" : [ {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-11",
+      "pldHoras" : [ {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-06",
+      "pldHoras" : [ {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-15",
+      "pldHoras" : [ {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-01",
+      "pldHoras" : [ {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-13",
+      "pldHoras" : [ {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-14",
+      "pldHoras" : [ {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      } ]
+    } ]
+  }, {
+    "nome" : "NORDESTE",
+    "pldDatas" : [ {
+      "data" : "2021-04-13",
+      "pldHoras" : [ {
+        "hora" : 17,
+        "valor" : 98.05
+      }, {
+        "hora" : 7,
+        "valor" : 74.89
+      }, {
+        "hora" : 2,
+        "valor" : 65.53
+      }, {
+        "hora" : 4,
+        "valor" : 64.42
+      }, {
+        "hora" : 3,
+        "valor" : 62.61
+      }, {
+        "hora" : 0,
+        "valor" : 77.66
+      }, {
+        "hora" : 1,
+        "valor" : 68.6
+      }, {
+        "hora" : 5,
+        "valor" : 68.74
+      }, {
+        "hora" : 9,
+        "valor" : 92.62
+      }, {
+        "hora" : 22,
+        "valor" : 98.22
+      }, {
+        "hora" : 6,
+        "valor" : 70.02
+      }, {
+        "hora" : 16,
+        "valor" : 98.01
+      }, {
+        "hora" : 18,
+        "valor" : 98.78
+      }, {
+        "hora" : 8,
+        "valor" : 76.96
+      }, {
+        "hora" : 15,
+        "valor" : 96.15
+      }, {
+        "hora" : 14,
+        "valor" : 96.71
+      }, {
+        "hora" : 12,
+        "valor" : 96.54
+      }, {
+        "hora" : 20,
+        "valor" : 98.09
+      }, {
+        "hora" : 19,
+        "valor" : 98.06
+      }, {
+        "hora" : 23,
+        "valor" : 98.18
+      }, {
+        "hora" : 13,
+        "valor" : 95.21
+      }, {
+        "hora" : 10,
+        "valor" : 98.19
+      }, {
+        "hora" : 11,
+        "valor" : 98.02
+      }, {
+        "hora" : 21,
+        "valor" : 98.25
+      } ]
+    }, {
+      "data" : "2021-04-01",
+      "pldHoras" : [ {
+        "hora" : 14,
+        "valor" : 82.35
+      }, {
+        "hora" : 9,
+        "valor" : 80.63
+      }, {
+        "hora" : 21,
+        "valor" : 87.47
+      }, {
+        "hora" : 17,
+        "valor" : 81.82
+      }, {
+        "hora" : 20,
+        "valor" : 83.55
+      }, {
+        "hora" : 2,
+        "valor" : 101.73
+      }, {
+        "hora" : 12,
+        "valor" : 82.41
+      }, {
+        "hora" : 19,
+        "valor" : 83.54
+      }, {
+        "hora" : 0,
+        "valor" : 103.22
+      }, {
+        "hora" : 11,
+        "valor" : 80.88
+      }, {
+        "hora" : 7,
+        "valor" : 84.25
+      }, {
+        "hora" : 10,
+        "valor" : 80.85
+      }, {
+        "hora" : 15,
+        "valor" : 81.74
+      }, {
+        "hora" : 22,
+        "valor" : 88.78
+      }, {
+        "hora" : 13,
+        "valor" : 82.34
+      }, {
+        "hora" : 23,
+        "valor" : 84.62
+      }, {
+        "hora" : 5,
+        "valor" : 75.96
+      }, {
+        "hora" : 6,
+        "valor" : 84.74
+      }, {
+        "hora" : 4,
+        "valor" : 75.87
+      }, {
+        "hora" : 3,
+        "valor" : 74.64
+      }, {
+        "hora" : 18,
+        "valor" : 83.53
+      }, {
+        "hora" : 1,
+        "valor" : 101.53
+      }, {
+        "hora" : 8,
+        "valor" : 84.24
+      }, {
+        "hora" : 16,
+        "valor" : 81.79
+      } ]
+    }, {
+      "data" : "2021-04-14",
+      "pldHoras" : [ {
+        "hora" : 1,
+        "valor" : 74.21
+      }, {
+        "hora" : 13,
+        "valor" : 73.02
+      }, {
+        "hora" : 16,
+        "valor" : 72.43
+      }, {
+        "hora" : 2,
+        "valor" : 66.78
+      }, {
+        "hora" : 4,
+        "valor" : 68.22
+      }, {
+        "hora" : 17,
+        "valor" : 74.56
+      }, {
+        "hora" : 9,
+        "valor" : 69.83
+      }, {
+        "hora" : 10,
+        "valor" : 71.16
+      }, {
+        "hora" : 8,
+        "valor" : 69.65
+      }, {
+        "hora" : 15,
+        "valor" : 71.74
+      }, {
+        "hora" : 12,
+        "valor" : 72.9
+      }, {
+        "hora" : 20,
+        "valor" : 69.92
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 67.6
+      }, {
+        "hora" : 19,
+        "valor" : 72.95
+      }, {
+        "hora" : 11,
+        "valor" : 72.92
+      }, {
+        "hora" : 18,
+        "valor" : 75.29
+      }, {
+        "hora" : 5,
+        "valor" : 71.34
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 70.88
+      }, {
+        "hora" : 6,
+        "valor" : 71.07
+      }, {
+        "hora" : 0,
+        "valor" : 75.55
+      }, {
+        "hora" : 14,
+        "valor" : 73.11
+      } ]
+    }, {
+      "data" : "2021-04-05",
+      "pldHoras" : [ {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-11",
+      "pldHoras" : [ {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 56.0
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 76.54
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 70.04
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 54.7
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 50.02
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 57.21
+      } ]
+    }, {
+      "data" : "2021-04-03",
+      "pldHoras" : [ {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 93.19
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-06",
+      "pldHoras" : [ {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-08",
+      "pldHoras" : [ {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-02",
+      "pldHoras" : [ {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 73.09
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 72.86
+      }, {
+        "hora" : 0,
+        "valor" : 86.15
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 79.57
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 72.47
+      }, {
+        "hora" : 19,
+        "valor" : 75.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 68.29
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 76.31
+      }, {
+        "hora" : 20,
+        "valor" : 74.83
+      }, {
+        "hora" : 2,
+        "valor" : 77.88
+      } ]
+    }, {
+      "data" : "2021-04-07",
+      "pldHoras" : [ {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-15",
+      "pldHoras" : [ {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-16",
+      "pldHoras" : [ {
+        "hora" : 16,
+        "valor" : 94.95
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 93.79
+      }, {
+        "hora" : 19,
+        "valor" : 98.13
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 97.34
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 93.7
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 97.98
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 98.53
+      }, {
+        "hora" : 17,
+        "valor" : 97.38
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 97.21
+      }, {
+        "hora" : 14,
+        "valor" : 93.74
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 98.14
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-12",
+      "pldHoras" : [ {
+        "hora" : 10,
+        "valor" : 90.27
+      }, {
+        "hora" : 20,
+        "valor" : 100.67
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 68.87
+      }, {
+        "hora" : 1,
+        "valor" : 62.86
+      }, {
+        "hora" : 23,
+        "valor" : 101.36
+      }, {
+        "hora" : 13,
+        "valor" : 103.21
+      }, {
+        "hora" : 14,
+        "valor" : 100.5
+      }, {
+        "hora" : 21,
+        "valor" : 101.55
+      }, {
+        "hora" : 6,
+        "valor" : 61.73
+      }, {
+        "hora" : 17,
+        "valor" : 101.03
+      }, {
+        "hora" : 18,
+        "valor" : 102.03
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 60.85
+      }, {
+        "hora" : 19,
+        "valor" : 100.8
+      }, {
+        "hora" : 11,
+        "valor" : 100.15
+      }, {
+        "hora" : 22,
+        "valor" : 101.52
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 100.49
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 100.39
+      }, {
+        "hora" : 12,
+        "valor" : 100.63
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 61.79
+      } ]
+    }, {
+      "data" : "2021-04-10",
+      "pldHoras" : [ {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 68.0
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 62.65
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 73.87
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 68.02
+      }, {
+        "hora" : 22,
+        "valor" : 73.82
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-09",
+      "pldHoras" : [ {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      } ]
+    }, {
+      "data" : "2021-04-04",
+      "pldHoras" : [ {
+        "hora" : 2,
+        "valor" : 49.77
+      }, {
+        "hora" : 18,
+        "valor" : 49.77
+      }, {
+        "hora" : 3,
+        "valor" : 49.77
+      }, {
+        "hora" : 7,
+        "valor" : 49.77
+      }, {
+        "hora" : 14,
+        "valor" : 49.77
+      }, {
+        "hora" : 20,
+        "valor" : 49.77
+      }, {
+        "hora" : 0,
+        "valor" : 49.77
+      }, {
+        "hora" : 22,
+        "valor" : 49.77
+      }, {
+        "hora" : 19,
+        "valor" : 49.77
+      }, {
+        "hora" : 5,
+        "valor" : 49.77
+      }, {
+        "hora" : 12,
+        "valor" : 49.77
+      }, {
+        "hora" : 21,
+        "valor" : 49.77
+      }, {
+        "hora" : 9,
+        "valor" : 49.77
+      }, {
+        "hora" : 10,
+        "valor" : 49.77
+      }, {
+        "hora" : 15,
+        "valor" : 49.77
+      }, {
+        "hora" : 6,
+        "valor" : 49.77
+      }, {
+        "hora" : 8,
+        "valor" : 49.77
+      }, {
+        "hora" : 17,
+        "valor" : 49.77
+      }, {
+        "hora" : 1,
+        "valor" : 49.77
+      }, {
+        "hora" : 13,
+        "valor" : 49.77
+      }, {
+        "hora" : 23,
+        "valor" : 49.77
+      }, {
+        "hora" : 4,
+        "valor" : 49.77
+      }, {
+        "hora" : 16,
+        "valor" : 49.77
+      }, {
+        "hora" : 11,
+        "valor" : 49.77
+      } ]
+    } ]
+  } ]
+}

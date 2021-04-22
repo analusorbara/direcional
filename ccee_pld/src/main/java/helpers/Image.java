@@ -11,6 +11,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.Map;
 
 import static helpers.FormatHelper.*;
 
@@ -164,7 +165,15 @@ public class Image {
         int numerosSemanaX = 832;
         int numerosMesX = 1025;
 
-        Graphics g = image.getGraphics();
+        Graphics2D g = image.createGraphics();
+
+        Map<?, ?> desktopHints =
+                (Map<?, ?>) Toolkit.getDefaultToolkit().getDesktopProperty("awt.font.desktophints");
+
+        if (desktopHints != null) {
+            g.setRenderingHints(desktopHints);
+        }
+
         g.setColor(Color.WHITE);
 
         g.setFont(fontData);

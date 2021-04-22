@@ -3,7 +3,6 @@ package helpers;
 import models.Pld;
 import models.PldHora;
 import models.SubmercadoEnum;
-import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
@@ -43,7 +42,7 @@ public class Excel {
                 break;
             }
 
-            XSSFCell dataCelula = aba.getRow(0).getCell(colunaPrimeiroDiaDoMes);
+            XSSFCell dataCelula = aba.getRow(0).getCell(coluna);
             String dataStr = dataCelula.toString();
 
             if (dataStr == null || dataStr.equals("")) {

@@ -15,6 +15,7 @@ import java.text.NumberFormat;
 import java.time.LocalDateTime;
 import java.time.format.TextStyle;
 import java.util.Locale;
+import java.util.Map;
 
 public class Image {
     private static String formatDouble(double value) {
@@ -187,7 +188,15 @@ public class Image {
         int numerosSemanaX = 832;
         int numerosMesX = 1025;
 
-        Graphics g = image.getGraphics();
+        Graphics2D g = image.createGraphics();
+
+        Map<?, ?> desktopHints =
+                (Map<?, ?>) Toolkit.getDefaultToolkit().getDesktopProperty("awt.font.desktophints");
+
+        if (desktopHints != null) {
+            g.setRenderingHints(desktopHints);
+        }
+
         g.setColor(Color.WHITE);
 
         g.setFont(fontData);

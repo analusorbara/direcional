@@ -10,34 +10,11 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
-import java.text.DecimalFormat;
-import java.text.NumberFormat;
 import java.time.LocalDateTime;
-import java.time.format.TextStyle;
-import java.util.Locale;
+
+import static helpers.FormatHelper.*;
 
 public class Image {
-    private static String formatDouble(double value) {
-        NumberFormat df = DecimalFormat.getInstance(new Locale("pt", "BR"));
-        df.setMaximumFractionDigits(2);
-        df.setMinimumFractionDigits(2);
-        return df.format(value);
-    }
-
-    private static String formatInt(int value) {
-        return String.format("%02d", value);
-    }
-
-    private static String formatHora(int value) {
-        return String.format("%02d:00", value);
-    }
-
-    private static String formatMes(LocalDateTime localDateTime) {
-        return localDateTime.getMonth()
-                .getDisplayName(TextStyle.FULL, new Locale("pt", "BR"))
-                .toUpperCase();
-    }
-
     public static void generate(Pld pld,
                                 LocalDateTime inicioMes, LocalDateTime inicioSemana, LocalDateTime diaDeReferenciaPld,
                                 String imgBase, String imgOut) throws IOException {

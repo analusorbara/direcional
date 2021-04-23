@@ -29,7 +29,7 @@ public class Main {
         // incio do mês: primeiro dia do mês
         LocalDateTime diaDeReferenciaPld = now.plusDays(1);
         LocalDateTime inicioSemana = diaDeReferenciaPld
-                .with(TemporalAdjusters.previous(DayOfWeek.SATURDAY));
+                .with(TemporalAdjusters.previousOrSame(DayOfWeek.SATURDAY));
         LocalDateTime inicioMes = diaDeReferenciaPld.withDayOfMonth(1); //diaDeReferenciaPld.minusDays(1);
 
         // incio do processo

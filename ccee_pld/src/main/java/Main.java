@@ -16,7 +16,7 @@ public class Main {
         // configurações
         String imagemBasePld = "./config/pld_base.jpeg";
         String planilhaPld = "./config/info PLD horario v 2.0.xlsx";
-        String planilhaPldSaida = "./config/info PLD horario v 2.0 gerada.xlsx";
+        String planilhaPldSaida = "./gerados/info PLD horario v 2.0 gerada.xlsx";
 
         // configurações do programa
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH:mm:ss");

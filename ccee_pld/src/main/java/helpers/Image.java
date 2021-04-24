@@ -143,7 +143,7 @@ public class Image {
         Font fontHoraMinMax = new Font("Open Sans", Font.PLAIN, 11);
 
         int dataY = 136;
-        int diaX = 1035;
+        int diaX = 1048;
 
         int seNumerosY = 318;
         int seHoraY = 335;
